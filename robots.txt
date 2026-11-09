@@ -1,2 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /merchant-feed.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Storebot-Google
+Allow: /
+
+Sitemap: https://sitemap.sandongon.com/sitemap.xml
