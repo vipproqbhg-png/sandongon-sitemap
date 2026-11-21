@@ -9,3 +9,4 @@ User-agent: Storebot-Google
 Allow: /
 
 Sitemap: https://sitemap.sandongon.com/sitemap.xml
+Sitemap: https://sitemap.sandongon.com/sitemap-pages.xml
