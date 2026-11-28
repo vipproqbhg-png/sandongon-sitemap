@@ -1,0 +1,21 @@
+{
+  "cap_nhat": "2026-11-28",
+  "ghi_chu": "Dữ liệu cho các khu trên trang chủ sandongon.vn (thẻ GTM giao diện v2). Chỉ ghi chương trình/tin có thật, không ghi giá, không bịa % giảm. Ảnh nằm trong trang-chu/the và trang-chu/anh.",
+  "khuyen_mai": [
+    {"tieu_de": "Flash Sale hôm nay", "url": "/flash-sale", "anh": "https://sitemap.sandongon.com/trang-chu/the/flash-sale.jpg"},
+    {"tieu_de": "Đông ấm áp: máy sưởi, hút ẩm", "url": "/may-hut-am-tao-am-may-suoi_c64", "anh": "https://sitemap.sandongon.com/trang-chu/the/dong-am-ap.jpg"},
+    {"tieu_de": "Sạc nhanh, pin trâu", "url": "/pinsac-du-phong-ac-quy_c12", "anh": "https://sitemap.sandongon.com/trang-chu/the/sac-nhanh.jpg"},
+    {"tieu_de": "Mua yên tâm: COD, đổi trả 10 ngày", "url": "/bai-viet/thong-tin-ho-tro/chinh-sach-doi-tra", "anh": "https://sitemap.sandongon.com/trang-chu/the/mua-yen-tam.jpg"}
+  ],
+  "tin_tuc": [
+    {"tieu_de": "Săn Đồ Ngon – kho hàng Hà Nội, giao toàn quốc", "mo_ta": "Hộ kinh doanh Viên Thế Đức (MST 8151003159), website đã thông báo với Bộ Công Thương. Hàng được kiểm, đóng gói tại kho Hà Nội và giao toàn quốc, thanh toán khi nhận hàng.", "url": "/bai-viet/lien-he/gioi-thieu", "anh": "https://sitemap.sandongon.com/trang-chu/anh/tin-gioi-thieu.jpg", "ngay": "2026-11-28"},
+    {"tieu_de": "Chính sách đổi trả 10 ngày", "mo_ta": "Đổi trả trong 10 ngày với hàng lỗi nhà sản xuất, giao sai, vỡ do vận chuyển. Quay video khi mở hàng để được xử lý nhanh.", "url": "/bai-viet/thong-tin-ho-tro/chinh-sach-doi-tra", "anh": "https://sitemap.sandongon.com/trang-chu/anh/tin-doi-tra.jpg", "ngay": "2026-11-28"},
+    {"tieu_de": "Hàng mùa đông: máy sưởi, máy hút ẩm, tạo ẩm", "mo_ta": "Nhóm hàng giữ ấm và chống nồm cho mùa lạnh đã có trên web. Xem bài hướng dẫn chọn máy sưởi an toàn cho phòng ngủ trước khi mua.", "url": "/may-hut-am-tao-am-may-suoi_c64", "anh": "https://sitemap.sandongon.com/trang-chu/anh/tin-hang-dong.jpg", "ngay": "2026-11-28"},
+    {"tieu_de": "Flash Sale trên sandongon.vn", "mo_ta": "Các món Flash Sale hiện ngay trên trang chủ, kèm đồng hồ đếm ngược và thanh số suất đã bán. Xem tất cả món đang giảm giá trong trang Flash Sale.", "url": "/flash-sale", "anh": "https://sitemap.sandongon.com/trang-chu/anh/tin-flash-sale.jpg", "ngay": "2026-11-28"}
+  ],
+  "kien_thuc": [
+    {"tieu_de": "Cách đọc tem sạc dự phòng", "url": "/bai-viet/lien-he/cach-doc-tem-sac-du-phong", "anh": "https://sitemap.sandongon.com/trang-chu/anh/bai-sac-du-phong.jpg", "ngay": "2026-11-28"},
+    {"tieu_de": "Cách chọn bình giữ nhiệt", "url": "/bai-viet/lien-he/cach-chon-binh-giu-nhiet", "anh": "https://sitemap.sandongon.com/trang-chu/anh/bai-binh-giu-nhiet.jpg", "ngay": "2026-11-28"},
+    {"tieu_de": "Cách chọn máy sưởi an toàn cho phòng ngủ", "url": "/bai-viet/lien-he/cach-chon-may-suoi-an-toan-cho-phong-ngu", "anh": "https://sitemap.sandongon.com/trang-chu/anh/bai-may-suoi.jpg", "ngay": "2026-11-28"}
+  ]
+}
